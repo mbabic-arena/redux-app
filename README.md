@@ -4,7 +4,7 @@
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](github.com/mbabic-arena/redux-app#readme)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](github.com/mbabic-arena/redux-app/graphs/commit-activity)
 
-> My First React App
+> My First Redux App
 
 ### 🏠 [Homepage](https://github.com/mbabic-arena/redux-app#readme)
 
